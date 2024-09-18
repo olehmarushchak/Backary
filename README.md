@@ -15,7 +15,7 @@ Stack use in project:
 
 
 ## Github flow
-1. **Fork** the repo in your repo.
+1. **Fork** the file in your repo.
 2. **Clone** copy URL or SSH for clone and use  `git clone <your__fork__link>`.
 3. Run `npm install` (or just `npm i`).
 4. Run `npm start`.
