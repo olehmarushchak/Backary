@@ -1,5 +1,5 @@
 # Creative Bakery landing page
-[DEMO LINK](https://<your_account>.github.io/layout_creativeBakery/)
+[DEMO LINK](https://olehmarushchak.github.io/layout_creativeBakery/)
 
 Implement landing page according to [Figma design](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab-FE-students?node-id=0%3A1)  
 
