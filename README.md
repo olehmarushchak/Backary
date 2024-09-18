@@ -1,6 +1,12 @@
 # Creative Bakery landing page
 
-Implement landing page according to [Figma design](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab-FE-students?node-id=0%3A1) - Use BEM and SCSS
+Implement landing page according to [Figma design](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab-FE-students?node-id=0%3A1)  
+
+Stack use in project: 
+-BEM
+-SCSS
+-HTML
+-JS
 
 - The design 1440px
 - Desktop 1280px
@@ -9,8 +15,8 @@ Implement landing page according to [Figma design](https://www.figma.com/file/dY
 
 
 ## Github flow
-1. **Fork** the repo.
-2. **Clone** the forked one.
+1. **Fork** the repo in your repo.
+2. **Clone** copy URL or SSH for clone and use  `git clone <your__fork__link>`.
 3. Run `npm install` (or just `npm i`).
 4. Run `npm start`.
 5. Open one more terminal window for the next steps.
