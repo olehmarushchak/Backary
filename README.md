@@ -15,7 +15,7 @@ Stack use in project:
 - Mobile (> 320px)
 
 
-## Github flow
+## Local start and GIThab flow
 1. **Fork** the file in your repo.
 2. **Clone** copy URL or SSH for clone and use  `git clone <your__fork__link>`.
 3. Run `npm install` (or just `npm i`).
